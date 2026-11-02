@@ -1,0 +1,8 @@
+**/target/
+.idea
+*.iml
+*.class
+/sky-server/src/main/resources/application-dev.yml
+*.pem
+*Test.java
+**/test/
